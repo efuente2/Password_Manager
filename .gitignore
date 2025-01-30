@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 passwords.db
+passwords.csv
 secret.key
 .Python
 build/
